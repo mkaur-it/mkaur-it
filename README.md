@@ -17,6 +17,7 @@
 **Frameworks & Platforms:**
 - **Backend:** Django • Node.js/Express.js • FastAPI • Laravel • ASP.NET
 - **Frontend:** React.js • Next.js • Vue.js • TypeScript • Tailwind CSS
+- **Mobile:** Swift (iOS) • Kotlin/Java (Android)
 - **CMS & E-Commerce:** WordPress • WooCommerce • Headless CMS
 - **DevOps:** AWS • Docker • Nginx • PostgreSQL • MySQL • Redis
 
